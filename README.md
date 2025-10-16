@@ -1,8 +1,3 @@
-# -Housing-Price-Prediction-
-To build a predictive model that estimates house prices using Linear Regression, leveraging exploratory data analysis and statistical modeling for accurate and interpretable predictions.
-Here’s a professional **GitHub README write-up** for your *Housing Price Prediction using Linear Regression* project — clean, structured, and portfolio-ready 👇
-
----
 
 # 🏠 Housing Price Prediction using Linear Regression
 
@@ -126,6 +121,3 @@ housing_price_prediction/
 📧 [aminuabdulrasheed055@gmail.com](mailto:aminuabdulrasheed055@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/aminu-abdulrasheed) | [Portfolio](#)
 
----
-
-Would you like me to add a **`requirements.txt`** file and **example code snippet (model training and prediction)** to make it complete for GitHub upload?
